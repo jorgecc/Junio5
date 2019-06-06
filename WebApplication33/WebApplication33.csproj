@@ -93,6 +93,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="file1.md" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
