@@ -14,7 +14,25 @@ namespace WebApplication33.Models
         public string Nombre { set; get;}
 
         public int Poblacion { set; get;}
+
+
+        // boton derecho quick action constructor
+
+        public Pais()
+        {
+        }
+
+        public Pais(int idPais, string nombre, int poblacion)
+        {
+            IdPais = idPais;
+            Nombre = nombre;
+            Poblacion = poblacion;
+        }
+
         
+
+
+
 
     }
 }
