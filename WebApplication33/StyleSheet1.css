@@ -1,0 +1,12 @@
+﻿
+/* el punto es una clase de estilo */
+.etiqueta {
+    width: 100px;
+    display: inline-block
+}
+
+.rojo  {
+    background-color: red;
+}
+
+
