@@ -27,7 +27,7 @@ namespace WebApplication33
 
             // luego, en la grilla, cambiar la propiedad CSSCLASS por una 
             // de bootstrap (ir a la pagina de bootstrap y buscar por TABLE)
-
+           
         }
     }
 }
